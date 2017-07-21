@@ -3,5 +3,5 @@ This project is in Angular 2.0. Through this project, I am learning the differen
 <hr>
 The project is in progress.
 
-<br>
-Status: In progress
+<br/>
+<b>Status: </b>In progress/Incomplete
